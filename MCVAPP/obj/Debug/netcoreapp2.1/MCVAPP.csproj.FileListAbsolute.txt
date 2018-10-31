@@ -1,0 +1,11 @@
+D:\PRASANNA\Files\PROJECTS\ResearchProject\StripePaymentGateway\MCVAPP\MCVAPP\bin\Debug\netcoreapp2.1\MCVAPP.deps.json
+D:\PRASANNA\Files\PROJECTS\ResearchProject\StripePaymentGateway\MCVAPP\MCVAPP\bin\Debug\netcoreapp2.1\MCVAPP.runtimeconfig.json
+D:\PRASANNA\Files\PROJECTS\ResearchProject\StripePaymentGateway\MCVAPP\MCVAPP\bin\Debug\netcoreapp2.1\MCVAPP.runtimeconfig.dev.json
+D:\PRASANNA\Files\PROJECTS\ResearchProject\StripePaymentGateway\MCVAPP\MCVAPP\bin\Debug\netcoreapp2.1\MCVAPP.dll
+D:\PRASANNA\Files\PROJECTS\ResearchProject\StripePaymentGateway\MCVAPP\MCVAPP\bin\Debug\netcoreapp2.1\MCVAPP.pdb
+D:\PRASANNA\Files\PROJECTS\ResearchProject\StripePaymentGateway\MCVAPP\MCVAPP\obj\Debug\netcoreapp2.1\MCVAPP.csprojAssemblyReference.cache
+D:\PRASANNA\Files\PROJECTS\ResearchProject\StripePaymentGateway\MCVAPP\MCVAPP\obj\Debug\netcoreapp2.1\MCVAPP.csproj.CoreCompileInputs.cache
+D:\PRASANNA\Files\PROJECTS\ResearchProject\StripePaymentGateway\MCVAPP\MCVAPP\obj\Debug\netcoreapp2.1\MCVAPP.AssemblyInfoInputs.cache
+D:\PRASANNA\Files\PROJECTS\ResearchProject\StripePaymentGateway\MCVAPP\MCVAPP\obj\Debug\netcoreapp2.1\MCVAPP.AssemblyInfo.cs
+D:\PRASANNA\Files\PROJECTS\ResearchProject\StripePaymentGateway\MCVAPP\MCVAPP\obj\Debug\netcoreapp2.1\MCVAPP.dll
+D:\PRASANNA\Files\PROJECTS\ResearchProject\StripePaymentGateway\MCVAPP\MCVAPP\obj\Debug\netcoreapp2.1\MCVAPP.pdb
